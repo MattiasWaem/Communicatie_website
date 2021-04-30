@@ -63,6 +63,10 @@ main {
     padding: 0.5rem;
 }
 
+p {
+    margin-top: 2rem;
+}
+
 footer {
     grid-column: 1;
     margin-top: 1.5rem;
