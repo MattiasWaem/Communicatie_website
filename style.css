@@ -35,18 +35,18 @@ header li {
     margin-top: 0.75rem;
 }
 
-#hier {
+nav ul li#hier a {
     color: red;
     border-bottom: solid 0.2rem red;
 }
 
 ul a:link{
-    color: White;
+    color: red;
     text-decoration: none;
 }
 
 ul a:visited {
-    color: White;
+    color: red;
 }
 
 ul a:hover {
