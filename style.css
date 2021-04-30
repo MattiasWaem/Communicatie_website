@@ -68,11 +68,16 @@ video {
 }
 
 p {
-    margin-top: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 footer {
     grid-column: 1;
     margin-top: 1.5rem;
     margin-left: 0.5rem;
+}
+
+footer p {
+    margin-bottom: 0.5rem;
 }
