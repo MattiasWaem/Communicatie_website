@@ -77,6 +77,15 @@ p {
     margin-bottom: 1rem;
 }
 
+main.competenties {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+main.competenties h1 {
+    grid-column: 1/-1;
+}
+
 main.projecten {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -87,6 +96,7 @@ section {
 }
 
 .formulier {
+    margin-right: 1rem;
     min-width: 12rem;
     width: 100%;
     height: auto;
