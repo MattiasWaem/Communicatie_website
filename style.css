@@ -95,6 +95,10 @@ section {
     margin: 1.5rem;
 }
 
+section.formulier {
+    margin-right: 1rem;
+}
+
 .formulier {
     margin-right: 1rem;
     min-width: 12rem;
