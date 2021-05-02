@@ -82,6 +82,10 @@ main.projecten {
     grid-template-columns: 1fr 1fr;
 }
 
+section {
+    margin: 1.5rem;
+}
+
 .formulier {
     min-width: 12rem;
     width: 100%;
