@@ -104,8 +104,7 @@ section.formulier {
     width: 100%;
     height: auto;
     padding: 1rem;
-    flex: 100%;
-    text-align:left;
+    text-align: center;
 }
 
 .formulier h1 {
